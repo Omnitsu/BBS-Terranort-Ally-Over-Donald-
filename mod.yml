@@ -1,31 +1,31 @@
-title: Terranort Ally(Over Donald)
+title: Terranort Ally(Over Goofy)
 originalAuthor: Omniツ
 description: Custom Terranort Ally.Discord server for any questions! https://discord.gg/YMV6Ea2
 assets:
- - name: obj/P_EX020.mdlx
+ - name: obj/P_EX030.mdlx
    method: copy
    source:
-     - name: obj/P_EX020.mdlx
- - name: obj/P_EX020.a.us
+     - name: obj/P_EX030.mdlx
+ - name: obj/P_EX030.a.us
    method: copy
    source:
-     - name: obj/P_EX020.a.us
- - name: obj/P_EX020.mset
+     - name: obj/P_EX030.a.us
+ - name: obj/P_EX030.mset
    method: copy
    source:
-     - name: obj/P_EX020.mset
- - name: obj/W_EX020.mdlx
+     - name: obj/P_EX030.mset
+ - name: obj/W_EX030.mdlx
    method: copy
    source:
-     - name: obj/W_EX020.mdlx
- - name: obj/W_EX020.mset
+     - name: obj/W_EX030.mdlx
+ - name: obj/W_EX030.mset
    method: copy
    source:
-     - name: obj/W_EX020.mset
- - name: obj/W_EX020.a.us
+     - name: obj/W_EX030.mset
+ - name: obj/W_EX030.a.us
    method: copy
    source:
-     - name: obj/W_EX020.a.us
+     - name: obj/W_EX030.a.us
  - name: 03system.bin
    method: binarc
    source:
